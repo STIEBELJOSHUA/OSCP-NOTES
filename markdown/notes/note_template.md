@@ -21,7 +21,7 @@ line three there should be no spaces:
 
 test image:
 
-![alt](../images/test.jpg "Test Image Title"){ style="width: 30%; margin: auto;" }
+![test test test](../images/test.jpg "Test Image Title"){ style="width: 30%; margin: auto;" }
 test link: 
 
 [link](http://example.com "Title")
